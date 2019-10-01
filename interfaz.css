@@ -1,0 +1,206 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 23-09-2019, 19:59:54
+    Author     : informatica
+*/
+
+body {
+    background: linear-gradient(to bottom right, white, #bcbdc4);
+    height: 4000px;
+    
+}
+.cnt_superior {
+    position: fixed;
+    width: 100%;
+    height: 100px;
+    top: 0%;
+    left: 0%;
+    color: white;
+    z-index: 7;
+    font-family: Verdana;    
+}
+.cnt_superior1 {
+    position: fixed;
+    width: 100%;
+    height: 100px;
+    background: #3a5a95; 
+    top: 0%;
+    left: 0%;
+    color: white;
+    z-index: 7;
+    font-family: Verdana;
+}
+#img1{
+    size: 10px;
+    left: 15%;
+    height: 50px; 
+    width: 110px;
+    top: 20px;
+}
+#formulario1{
+    font-size: 13px;
+    left: 750px;
+    top: 25px;
+    height: 60px;
+    width: 240px   
+}
+#formulario2{
+    left: 960px;
+    top: 25px;
+    height: 60px;
+    width: 200px
+}
+.ingresar{
+    left: 1180px;
+    top: 40px;
+    background: white;
+    color: #3a5a95;
+    position: fixed;
+    z-index: 20;   
+    height: 22px;
+    width: 100px;
+    cursor: pointer;
+}
+.cuerpo{
+    position: absolute;
+    left: 0;
+    top: 100px;
+    width: 100%;
+    height: 645px;
+    
+}
+#intro{
+    top: 30px;
+    left: 180px;
+    font-family: verdana;
+    font-size: 19px;
+    color: #142170;
+    height: 75px;
+    width: 550px;
+
+}
+#CrearCuenta{
+    top: 25px;
+    left: 780px;
+    font-family: verdana;
+    font-size: 30px;
+    color: black;
+    width: 500px;
+    height: 60px;
+}
+#img2{
+    top: 130;
+    left: 200px;
+    height: 250px;
+    width: 550px;
+}
+#intro2{
+    top:65px;
+    left: 780px;
+    font-family: verdana;
+    font-size: 19px;
+    color: black;
+    height: 50px;
+    width: 300px;
+}
+#formulario3{
+    top: 125x;
+    left: 780px;
+    font-family: verdana;
+    font-size: 20px;
+    width: 450px;
+    height: 100%;  
+    
+}
+#nombre{   
+    border: 2px;   
+    width: 180px;
+    height: 20px;
+    border-radius: 5px/5px;
+    background: white;
+    padding: 5px;
+    font-size: 15px;
+    
+}
+#nombre1{ 
+    
+    border: 2px;   
+    width: 180px;
+    height: 20px;
+    border-radius: 5px/5px;
+    background: white;
+    padding: 5px;
+    font-size: 15px;
+    color: black;
+}
+
+#mail{    
+    
+    border: 2px;  
+    width: 385px;
+    height: 20px;
+    border-radius: 5px/5px;
+    background: white;
+    padding: 5px;
+    font-size: 15px;
+}
+#contraseña{      
+    border: 2px;  
+    width: 385px;
+    height: 20px;
+    border-radius: 5px/5px;
+    background: white;
+    padding: 5px;
+    font-size: 15px;
+}
+#fecha{
+    top:85px;
+    left: 780px;
+    font-family: verdana;
+    font-size: 19px;
+    color: #90949c;
+    height: 50px;
+    width: 300px;
+    
+}
+#Terminos{
+    top:50px;
+    left: 780px;
+    font-family: verdana;
+    font-size: 11px;
+    color: black;
+    height: 50px;
+    width: 350px;
+}#opcion{
+    color: black;
+    font-size: 15px;
+    left: 10%;
+    
+}
+#prueba{
+    float: left;
+    
+}
+#prueba1{
+    float: right;
+}
+.Boton{
+    width: 180px;
+    height: 35px;
+    border-radius: 5px/5px;
+    left: 780px;
+    top: 650px;
+    background: #64a852;
+    position: absolute;
+    color: white;
+    font-size: 20px;  
+    cursor: pointer;
+    outline: none;
+}
+
+   
+
